@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.4.3)
+  - FavIcon (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - FavIcon
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FavIcon
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  FavIcon: 21651b47d8f6b33517973859f85e2cb6f9fcfaee
+
+PODFILE CHECKSUM: 124e1dd453b1cbddd3a764726793320dfcd59cc8
+
+COCOAPODS: 1.10.0
